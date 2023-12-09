@@ -1,0 +1,181 @@
+﻿Information listing created by	Miguel F. Vieira
+Date	08-Dec-2023 12:17:48
+Current work part	C:\Universidade\MComp\Trabalho Computacional\NX Geom Simples\T6\fem1simplesT6.fem
+Node name	DESKTOP-A2B5UUA
+
+
+ 
+------------------------------------------------------------
+ 
+              ELEMENT INFORMATION
+ 
+------------------------------------------------------------
+ 
+ 
+ELEMENT INFORMATION
+  Label                | Element Type   | Mesh           | Mesh Collector     | Connected Nodes
+  1                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 10 3 4 67 68 69
+  2                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 3 13 2 70 71 72
+  3                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 13 10 11 73 74 75
+  4                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 13 3 10 70 67 73
+  5                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 11 14 13 76 77 75
+  6                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 11 12 14 78 79 76
+  7                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 341 12 340 80 81 346
+  8                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 341 14 12 82 79 80
+  9                    | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 15 1 2 83 84 85
+  10                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 1 343 344 86 347 87
+  11                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 343 15 342 88 89 348
+  12                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 343 1 15 86 83 88
+  13                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 342 14 341 90 82 349
+  14                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 342 15 14 89 91 90
+  15                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 13 15 2 92 85 71
+  16                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 13 14 15 77 91 92
+  17                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 16 4 5 93 94 95
+  18                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 10 16 17 96 97 98
+  19                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 10 4 16 69 93 96
+  20                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 340 19 339 99 100 350
+  21                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 340 12 19 81 101 99
+  22                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 17 11 10 102 74 98
+  23                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 17 18 11 103 104 102
+  24                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 12 18 19 105 106 101
+  25                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 12 11 18 78 104 105
+  26                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 20 17 16 107 97 108
+  27                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 17 23 18 109 110 103
+  28                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 22 20 21 111 112 113
+  29                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 22 23 17 114 109 115
+  30                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 20 22 17 111 115 107
+  31                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 24 313 314 116 316 117
+  32                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 313 21 312 118 119 317
+  33                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 21 24 22 120 121 113
+  34                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 21 313 24 118 116 120
+  35                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 18 25 19 122 123 106
+  36                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 23 25 18 124 122 110
+  37                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 24 23 22 125 114 121
+  38                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 24 25 23 126 124 125
+  39                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 314 25 24 127 126 117
+  40                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 314 315 25 318 128 127
+  41                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 315 26 25 129 130 128
+  42                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 26 19 25 131 123 130
+  43                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 26 339 19 132 100 131
+  44                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 356 26 315 133 129 319
+  45                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 356 339 26 351 132 133
+  46                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 29 5 6 134 135 136
+  47                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 16 29 20 137 138 108
+  48                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 16 5 29 95 134 137
+  49                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 20 28 21 139 140 112
+  50                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 20 29 28 138 141 139
+  51                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 27 6 7 142 143 144
+  52                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 29 27 28 145 146 141
+  53                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 29 6 27 136 142 145
+  54                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 30 21 28 147 140 148
+  55                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 312 30 311 149 150 320
+  56                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 312 21 30 119 147 149
+  57                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 311 31 310 151 152 321
+  58                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 30 31 311 153 151 150
+  59                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 31 28 27 154 146 155
+  60                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 31 30 28 153 148 154
+  61                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 32 7 8 156 157 158
+  62                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 27 32 31 159 160 155
+  63                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 27 7 32 144 156 159
+  64                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 310 33 309 161 162 322
+  65                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 33 31 32 163 160 164
+  66                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 33 310 31 161 152 163
+  67                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 8 9 33 165 166 167
+  68                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 32 8 33 158 167 164
+  69                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 309 300 355 168 301 323
+  70                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 9 309 33 169 162 166
+  71                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 9 300 309 170 168 169
+  72                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 34 6 5 171 135 172
+  73                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 6 40 7 173 174 143
+  74                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 40 34 35 175 176 177
+  75                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 40 6 34 173 171 175
+  76                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 7 39 8 178 179 157
+  77                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 7 40 39 174 180 178
+  78                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 38 35 36 181 182 183
+  79                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 40 38 39 184 185 180
+  80                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 40 35 38 177 181 184
+  81                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 42 9 8 186 165 187
+  82                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 9 299 300 188 302 170
+  83                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 299 42 298 189 190 303
+  84                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 299 9 42 188 186 189
+  85                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 298 41 297 191 192 304
+  86                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 298 42 41 190 193 191
+  87                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 39 42 8 194 187 179
+  88                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 39 41 42 195 193 194
+  89                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 36 43 38 196 197 183
+  90                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 36 37 43 198 199 196
+  91                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 296 37 295 200 201 305
+  92                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 296 43 37 202 199 200
+  93                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 38 41 39 203 195 185
+  94                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 38 43 41 197 204 203
+  95                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 297 43 296 205 202 306
+  96                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 297 41 43 192 204 205
+  97                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 344 44 1 206 207 87
+  98                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 344 345 44 352 208 206
+  99                   | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 1 45 2 209 210 84
+  100                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 1 44 45 207 211 209
+  101                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 2 46 3 212 213 72
+  102                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 2 45 46 210 214 212
+  103                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 3 47 4 215 216 68
+  104                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 3 46 47 213 217 215
+  105                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 5 48 34 218 219 172
+  106                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 48 4 47 220 216 221
+  107                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 48 5 4 218 94 220
+  108                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 49 34 48 222 219 223
+  109                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 35 49 50 224 225 226
+  110                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 35 34 49 176 222 224
+  111                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 50 36 35 227 182 226
+  112                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 50 51 36 228 229 227
+  113                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 295 52 294 230 231 307
+  114                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 295 37 52 201 232 230
+  115                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 51 37 36 233 198 229
+  116                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 51 52 37 234 232 233
+  117                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 53 50 49 235 225 236
+  118                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 50 56 51 237 238 228
+  119                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 55 53 54 239 240 241
+  120                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 55 56 50 242 237 243
+  121                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 53 55 50 239 243 235
+  122                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 57 328 329 244 331 245
+  123                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 328 54 327 246 247 332
+  124                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 54 57 55 248 249 241
+  125                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 54 328 57 246 244 248
+  126                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 51 58 52 250 251 234
+  127                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 56 58 51 252 250 238
+  128                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 57 56 55 253 242 249
+  129                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 57 58 56 254 252 253
+  130                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 329 58 57 255 254 245
+  131                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 329 330 58 333 256 255
+  132                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 330 59 58 257 258 256
+  133                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 59 52 58 259 251 258
+  134                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 59 294 52 260 231 259
+  135                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 354 59 330 261 257 334
+  136                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 354 294 59 308 260 261
+  137                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 62 48 47 262 221 263
+  138                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 49 62 53 264 265 236
+  139                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 49 48 62 223 262 264
+  140                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 53 61 54 266 267 240
+  141                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 53 62 61 265 268 266
+  142                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 60 47 46 269 217 270
+  143                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 62 60 61 271 272 268
+  144                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 62 47 60 263 269 271
+  145                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 63 54 61 273 267 274
+  146                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 327 63 326 275 276 335
+  147                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 327 54 63 247 273 275
+  148                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 326 64 325 277 278 336
+  149                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 63 64 326 279 277 276
+  150                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 64 61 60 280 272 281
+  151                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 64 63 61 279 274 280
+  152                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 65 46 45 282 214 283
+  153                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 60 65 64 284 285 281
+  154                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 60 46 65 270 282 284
+  155                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 325 66 324 286 287 337
+  156                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 66 64 65 288 285 289
+  157                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 66 325 64 286 278 288
+  158                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 45 44 66 211 290 291
+  159                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 65 45 66 283 291 289
+  160                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 324 345 357 292 353 338
+  161                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 44 324 66 293 287 290
+  162                  | CPLSTS6        | 2d_mesh(1)     | Plane Stress XY(1) | 44 345 324 208 292 293
+ 
+------------------------------------------------------------
+ 

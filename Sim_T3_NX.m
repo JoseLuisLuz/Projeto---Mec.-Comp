@@ -67,8 +67,8 @@ inver = false;
 
 ponto_2_on = false;
 
-fileID0 = fopen("NOSfem3T3GeomSimples.txt", "r");
-fileID1 = fopen("ELEMfem3T3GeomSimples.txt", "r");
+fileID0 = fopen("NOSfem1T3GeomSimples.txt", "r");
+fileID1 = fopen("ELEMfem1T3GeomSimples.txt", "r");
 formatSpec = '%c'; '%d';
 
 % Leitura dos valores das coordenadas dos nós
